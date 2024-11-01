@@ -1,0 +1,41 @@
+# ######## MLFLOW / SQL data packages
+# # mlflow>=1.2.0
+# mlflow[extras]
+# catboost>=0.26
+# boto3==1.17.90
+# python-dotenv==0.17.1
+
+# ##### Deep learning packages
+# tensorflow
+# pytorch
+
+
+# # ######## Web API packages
+# fastapi 
+# uvicorn
+# Jinja2
+# python-multipart
+
+# ##### MySQL packages
+# mysql-connector-python  # MySQL
+# psycopg2 # PostgreSQLs
+
+##### development
+# jupyterlab
+# nbconvert   #converts notebooks to various other formats: pdf, png, html
+pytest
+flake8
+black
+
+##### General packages
+matplotlib
+numpy
+pandas
+python-box==6.0.2
+ensure==1.0.2
+PyYAML
+tqdm
+
+## setup the project packages
+-e .
+
