@@ -4,11 +4,10 @@ Jetson based model deployment
 
 ### TODO List:
 
-- [ ] build the image using docker
-- [ ] run data exploration pipeline
-- [ ] train the mode
-- [ ] comress/accelerate the model for Jetson
-- [ ] deploy thr trained model
+- [ ]  build the Docker-based image 
+- [ ] build the dataset
+- [ ] train the model
+- [ ] deploy the trained model on Jetson
 
 # I. Configuration file
 
