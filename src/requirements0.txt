@@ -1,0 +1,35 @@
+# ##### ONNX  packages
+# onnx 
+# pycuda 
+# tensorrt 
+# onnxsim 
+# onnxruntime
+
+# ##### Deep learning packages
+# torchvision
+# ensemble_boxes
+# albumentations==1.1.0
+
+# # ######## Web API packages
+# fastapi 
+# uvicorn
+# Jinja2
+# python-multipart
+
+# ##### MySQL packages
+# mysql-connector-python  # MySQL
+# psycopg2 # PostgreSQLs
+
+##### development
+# jupyterlab
+
+##### General packages
+matplotlib
+numpy
+pandas
+PyYAML
+tqdm
+
+## setup the project packages
+-e .
+
